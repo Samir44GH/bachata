@@ -16,5 +16,64 @@ h1
 	font-family: Impact;
 	border: 5px black groove;
 	border-radius: 10px;
-	box-shadow: 10px 10px 5px grey;
+	box-shadow: 2px 3px 5px grey;
+}
+
+.bachata1
+{
+	float: right;
+	height: 190px;
+}
+
+.titre
+{
+	font-size: 4em;
+	font-family: Times New Roman;
+}
+
+.bachata3
+{
+	float: left;
+}
+
+.bachata2
+{
+	float: left;
+	height: 200px;
+	width: 200px;
+}
+
+.en-dessous
+{
+	clear: both;
+}
+.bachata-dominicaine
+{
+	float: right;
+	height: 200px;
+	width: 300px;
+}
+
+.en-dessous2
+{ 
+	clear: both; 
+}
+
+.bachata-sensual
+{
+	float: left;
+	height: 250px;
+	width: 250px;
+}
+
+.en-dessous3
+{
+	clear: both;
+}
+
+body
+{
+	background-image: url(ifd2.jpg);
+	background-size: 100%;
+	background-attachment: fixed;
 }
